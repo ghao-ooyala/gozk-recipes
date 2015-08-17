@@ -2,7 +2,7 @@ package recipes
 
 import (
 	"os"
-	gozk "launchpad.net/gozk"
+	gozk "github.com/scalingdata/gozk"
 )
 
 type ZkTestServer struct {
