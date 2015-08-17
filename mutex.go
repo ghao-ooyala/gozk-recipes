@@ -2,7 +2,7 @@ package recipes
 
 import (
 	"errors"
-	gozk "launchpad.net/gozk"
+	gozk "github.com/scalingdata/gozk"
 	"path"
 	"sort"
 	"strings"
