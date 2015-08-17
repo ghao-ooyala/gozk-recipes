@@ -3,7 +3,7 @@ package recipes
 import (
 	"errors"
 	"fmt"
-	gozk "launchpad.net/gozk"
+	gozk "github.com/scalingdata/gozk"
 	"time"
 )
 
